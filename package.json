@@ -4,7 +4,7 @@
   "description": "built using Vanilla JavaScript, HTML and CSS Used Socket.io and Node events to reflect back realtime changes to multiple users  Created Undo-Redo features for the board using Arrays as a stack by storing  Positions, Colours and width of the Pen and Eraser",
   "main": "express.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "moment": "^2.29.1",
     "socket.io": "^2.3.0"
   },
